@@ -83,7 +83,8 @@ print("SURIYA PRAKASH.S[212223100055]")
 
 
 ### Prediction:
-![image](https://github.com/user-attachments/assets/7185d174-8f3b-4a4a-bf12-8b1110519afb)
+![image](https://github.com/user-attachments/assets/36338e5e-8efe-410e-8fb2-97dc0ebb07c4)
+
 
 
 
